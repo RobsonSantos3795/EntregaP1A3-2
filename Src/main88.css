@@ -1,0 +1,50 @@
+html {
+    background-color: #F05941;
+}
+.formulario {
+    background-color: rgb(255, 255, 255);
+    margin: 100px auto;
+    padding: 15px 15px;
+    border-radius: 7px;
+    height: 50%;
+    width: 50%;
+}
+.formulario input {
+    width: auto;
+    font-size: 20px;
+    background-color: white;
+}
+button {
+    background-color: rgb(249, 253, 3);
+    padding: 8px 20px;
+    border-radius: 7px;
+    font-weight: bold;
+    font-size: 25px;    
+    cursor: pointer;
+}
+.titulo {
+    text-align: center;
+    font-size: 3em;
+}
+.campo {
+    display: flex;
+    padding: 15px;
+    background-color: rgb(241, 190, 21);
+    flex-direction: column;
+    font-size: 2em;
+    font-weight: bold;
+}
+.centro {
+    text-align: center;
+}
+.aviso {
+    font-size: 25px;
+    font-weight: bold;
+}
+.imagem {
+    width: 300px;
+    height: 220px;
+    display: block;
+    margin: auto;
+    border-radius: 7px;
+}

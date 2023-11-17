@@ -1,0 +1,53 @@
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: none;
+    color: blue;
+}
+.menu {
+    background-color: black;
+    color: white;
+    margin: 5px 5px;
+    padding: 10px 5px;
+}
+.texto01 {
+    background-color: white;
+    margin: 40px 25px;
+    padding: 10px 10px;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.b01 {
+    background-color: green;
+    font-weight: bold;
+    border-radius: 7px;
+}
+.b02 {
+    background-color: red;
+    font-weight: bold;
+    border-radius: 7px;
+}
+html {
+    background-color: #F05941;
+}
+.texto02 {
+    font-weight: bold;
+}
+nav {
+    text-align: center;
+    
+}
+nav button {
+    font-weight: bold;
+    border-radius: 7px;
+}
+.titulo {
+    text-align: center;
+    font-size: 35px;
+}
+.frase {
+    text-align: center;
+}
+
